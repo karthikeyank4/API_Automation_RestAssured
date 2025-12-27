@@ -86,27 +86,7 @@ Update dependencies using Maven
 
 Run test classes or TestNG XML file
 
-🔹 What This Project Demonstrates to Recruiters
 
-Strong understanding of API testing concepts
-
-Hands-on experience with Rest Assured
-
-Ability to design automation frameworks
-
-Knowledge of Maven, Git, and GitHub
-
-Real-world QA automation approach
-
-🔹 Future Enhancements
-
-Add authentication mechanisms (OAuth / Token-based)
-
-Integrate advanced reporting (Extent Reports / Allure)
-
-CI/CD integration using GitHub Actions or Jenkins
-
-Data-driven testing support
 
 🔹 About Me
 
