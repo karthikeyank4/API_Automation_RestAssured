@@ -1,0 +1,115 @@
+Project Overview
+
+This repository contains an API Automation Testing framework built using Java and Rest Assured.
+The framework is designed to automate REST API testing with clear structure, reusable components, and industry best practices.
+
+This project demonstrates my hands-on experience in API testing, automation framework design, and testing concepts, aimed for QA / Automation Engineer roles.
+
+🔹 Tech Stack & Tools
+
+Programming Language: Java
+
+API Automation: Rest Assured
+
+Build Tool: Maven
+
+Testing Framework: TestNG / JUnit
+
+IDE: Eclipse
+
+Version Control: Git & GitHub
+
+Data Format: JSON
+
+Reporting: TestNG default reports / Extent Reports (if applicable)
+
+🔹 Framework Structure
+API_Automation_RestAssured
+│
+├── src/test/java
+│   ├── api.tests        → Test cases for API endpoints
+│   ├── api.payloads     → Request payloads (POJO / JSON)
+│   ├── api.utils        → Utility classes (common methods)
+│   └── api.base         → Base configuration (base URI, auth)
+│
+├── test-output          → Test execution reports
+├── pom.xml              → Maven dependencies
+├── .gitignore           → Ignored files/folders
+└── README.md            → Project documentation
+
+🔹 Key Features Implemented
+
+REST API automation using Rest Assured
+
+Request methods: GET, POST, PUT, DELETE
+
+Validation of:
+
+Status codes
+
+Response body
+
+Headers
+
+JSON schema (if applicable)
+
+Reusable request specifications
+
+Maven-based dependency management
+
+Clean project structure for scalability
+
+🔹 Sample Test Scenarios Covered
+
+Create resource using POST API
+
+Retrieve resource using GET API
+
+Update resource using PUT API
+
+Delete resource using DELETE API
+
+Positive and negative test cases
+
+Validation of response time and response data
+
+🔹 How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/karthikeyank4/API_Automation_RestAssured.git
+
+
+Import the project into Eclipse as a Maven project
+
+Update dependencies using Maven
+
+Run test classes or TestNG XML file
+
+🔹 What This Project Demonstrates to Recruiters
+
+Strong understanding of API testing concepts
+
+Hands-on experience with Rest Assured
+
+Ability to design automation frameworks
+
+Knowledge of Maven, Git, and GitHub
+
+Real-world QA automation approach
+
+🔹 Future Enhancements
+
+Add authentication mechanisms (OAuth / Token-based)
+
+Integrate advanced reporting (Extent Reports / Allure)
+
+CI/CD integration using GitHub Actions or Jenkins
+
+Data-driven testing support
+
+🔹 About Me
+
+Karthikeyan K
+QA Engineer with experience in Manual & Automation Testing, specializing in API Automation, Selenium, Rest Assured, and QA best practices.
+Actively building projects to strengthen automation and backend testing skills
