@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="sales_Module_Api.DeliveryOption">
+        <methods>
+          <include name="deliveryOptionApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.DeliveryOption -->
+      <class name="sales_Module_Api.ReflectiveOption">
+        <methods>
+          <include name="reflectiveOption"/>
+        </methods>
+      </class> <!-- sales_Module_Api.ReflectiveOption -->
+      <class name="sales_Module_Api.PowerAvailability">
+        <methods>
+          <include name="powerAvailability"/>
+        </methods>
+      </class> <!-- sales_Module_Api.PowerAvailability -->
+      <class name="sales_Module_Api.Invoicerefrence">
+        <methods>
+          <include name="invoicerefrence"/>
+        </methods>
+      </class> <!-- sales_Module_Api.Invoicerefrence -->
+      <class name="sales_Module_Api.SampleCategory">
+        <methods>
+          <include name="sampleCategory"/>
+        </methods>
+      </class> <!-- sales_Module_Api.SampleCategory -->
+      <class name="sales_Module_Api.AtmType">
+        <methods>
+          <include name="atmTypeAPI"/>
+        </methods>
+      </class> <!-- sales_Module_Api.AtmType -->
+      <class name="sales_Module_Api.ClothType">
+        <methods>
+          <include name="clothTypeApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.ClothType -->
+      <class name="sales_Module_Api.SampleMain">
+        <methods>
+          <include name="sampleMain"/>
+        </methods>
+      </class> <!-- sales_Module_Api.SampleMain -->
+      <class name="sales_Module_Api.Materials">
+        <methods>
+          <include name="materials"/>
+        </methods>
+      </class> <!-- sales_Module_Api.Materials -->
+      <class name="sales_Module_Api.SampleRack">
+        <methods>
+          <include name="SampleRack"/>
+        </methods>
+      </class> <!-- sales_Module_Api.SampleRack -->
+      <class name="sales_Module_Api.ItemWiseTarget">
+        <methods>
+          <include name="itemWiseTarget"/>
+        </methods>
+      </class> <!-- sales_Module_Api.ItemWiseTarget -->
+      <class name="sales_Module_Api.FacilityType">
+        <methods>
+          <include name="facilityTypeApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.FacilityType -->
+      <class name="sales_Module_Api.LaminationType">
+        <methods>
+          <include name="laminationType"/>
+        </methods>
+      </class> <!-- sales_Module_Api.LaminationType -->
+      <class name="sales_Module_Api.MaterialCategory">
+        <methods>
+          <include name="materialCategory"/>
+        </methods>
+      </class> <!-- sales_Module_Api.MaterialCategory -->
+      <class name="sales_Module_Api.DigitalPrintOption">
+        <methods>
+          <include name="DigitalPrintPostPatchGet"/>
+        </methods>
+      </class> <!-- sales_Module_Api.DigitalPrintOption -->
+      <class name="sales_Module_Api.EmbroideryType">
+        <methods>
+          <include name="embroideryTypeAPI"/>
+        </methods>
+      </class> <!-- sales_Module_Api.EmbroideryType -->
+      <class name="sales_Module_Api.SampleLocation">
+        <methods>
+          <include name="samplelocation"/>
+        </methods>
+      </class> <!-- sales_Module_Api.SampleLocation -->
+      <class name="sales_Module_Api.PaintfinishType">
+        <methods>
+          <include name="paintfinishType_GetById"/>
+          <include name="painfinishType_delete"/>
+          <include name="paintfinishType_Post"/>
+          <include name="setup"/>
+          <include name="paintfinishType_Patch"/>
+          <include name="paintfinishType_Getall"/>
+        </methods>
+      </class> <!-- sales_Module_Api.PaintfinishType -->
+      <class name="sales_Module_Api.InstallationEquipment">
+        <methods>
+          <include name="installationEquipmentApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.InstallationEquipment -->
+      <class name="sales_Module_Api.PermitRequirement">
+        <methods>
+          <include name="permitRequirement"/>
+        </methods>
+      </class> <!-- sales_Module_Api.PermitRequirement -->
+      <class name="sales_Module_Api.PaymentTerms">
+        <methods>
+          <include name="paymentTerms"/>
+        </methods>
+      </class> <!-- sales_Module_Api.PaymentTerms -->
+      <class name="sales_Module_Api.MediaType">
+        <methods>
+          <include name="mediaType"/>
+        </methods>
+      </class> <!-- sales_Module_Api.MediaType -->
+      <class name="sales_Module_Api.BusinessType">
+        <methods>
+          <include name="businessTypeApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.BusinessType -->
+      <class name="sales_Module_Api.IlumationType">
+        <methods>
+          <include name="ilumationType"/>
+        </methods>
+      </class> <!-- sales_Module_Api.IlumationType -->
+      <class name="sales_Module_Api.MaterialThickness">
+        <methods>
+          <include name="materialThickness"/>
+        </methods>
+      </class> <!-- sales_Module_Api.MaterialThickness -->
+      <class name="sales_Module_Api.SalesmanMasters">
+        <methods>
+          <include name="salesManMaster"/>
+        </methods>
+      </class> <!-- sales_Module_Api.SalesmanMasters -->
+      <class name="sales_Module_Api.MaterialGrade">
+        <methods>
+          <include name="materialGrade"/>
+        </methods>
+      </class> <!-- sales_Module_Api.MaterialGrade -->
+      <class name="sales_Module_Api.LetterRun">
+        <methods>
+          <include name="letterRunApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.LetterRun -->
+      <class name="sales_Module_Api.IntrenalRequests">
+        <methods>
+          <include name="internalRequest"/>
+        </methods>
+      </class> <!-- sales_Module_Api.IntrenalRequests -->
+      <class name="sales_Module_Api.PackagingType">
+        <methods>
+          <include name="packagingType"/>
+        </methods>
+      </class> <!-- sales_Module_Api.PackagingType -->
+      <class name="sales_Module_Api.Campaign">
+        <methods>
+          <include name="campaignTypeApi"/>
+        </methods>
+      </class> <!-- sales_Module_Api.Campaign -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
